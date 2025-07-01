@@ -1,4 +1,4 @@
-[200~What is data ?
+What is data ?
 Data is essentially information—raw facts and figures that, by themselves, might not mean much, but when organized and analyzed, can reveal insights, tell stories, or drive decisions.
 Here’s a breakdown:
 - In daily life: Your name, your age, your favorite songs on a playlist—those are all forms of data.
