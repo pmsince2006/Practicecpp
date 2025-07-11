@@ -20,4 +20,8 @@ int main(){
         cout << "Grade: F";
     }
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3969d60 (Code to print n natural numbers)
