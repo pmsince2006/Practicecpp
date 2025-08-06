@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/hp/OneDrive/New folder/sem3",
       "program": "c:/Users/hp/OneDrive/New folder/sem3/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/hp/OneDrive/New folder/Cpp",
+      "program": "c:/Users/hp/OneDrive/New folder/Cpp/build/Debug/outDebug",
+>>>>>>> c8a3737a3f4ec21343fb565af6b094f6e9b8df9b
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
